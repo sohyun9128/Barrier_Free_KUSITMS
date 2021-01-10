@@ -1,0 +1,10 @@
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0000.wav
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0001.wav
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0002.wav
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0003.wav
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0004.wav
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0005.wav
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0006.wav
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0007.wav
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0008.wav
+C:\Users\wh\speech\Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API\dst\subtitles.0009.wav
